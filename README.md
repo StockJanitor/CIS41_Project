@@ -3,7 +3,7 @@ Purpose:
 - explore the US real estate prices and economic correlations.
 - exercise python data analytics tools: pandas, seaborn, matplotlib, numpy
 
-
+Tasks:
 1. Load, clean, merge data
 2. Visualization - pivot table, groupby table, ECDF, mixed PairGrid, barplot, striplot, FacetGrid, distplot, violinplot, joinplot, histplot, countplot, scatterplot, boxenplot, boxplot, swarmplot, pie chart, heatmap, relplot, regplot, pairplot, choropleth
 3. Hypothesis Testing - Chi-squared, ANOVA, Z-Test
