@@ -1,14 +1,10 @@
 ### US Real Estate and Economics Data Exploratory
 Files: CIS41_Project <br>
-Purpose: 
-- explore the US real estate prices and economic correlations.
-- exercise python data analytics tools: pandas, seaborn, matplotlib, numpy
 
 Tasks:
-1. Load, clean, merge data
-2. Visualization - pivot table, groupby table, ECDF, mixed PairGrid, barplot, striplot, FacetGrid, distplot, violinplot, joinplot, histplot, countplot, scatterplot, boxenplot, boxplot, swarmplot, pie chart, heatmap, relplot, regplot, pairplot, choropleth
-3. Hypothesis Testing - Chi-squared, ANOVA, Z-Test
-4. Conclusion (Q&A, findings) 
+1. EDA - pivot table, groupby table, ECDF, mixed PairGrid, barplot, striplot, FacetGrid, distplot, violinplot, joinplot, histplot, countplot, scatterplot, boxenplot, boxplot, swarmplot, pie chart, heatmap, relplot, regplot, pairplot, choropleth
+2. Hypothesis Testing - Chi-squared, ANOVA, Z-Test
+3. Conclusion (Q&A, findings) 
 
 #### Conclusion (main take aways)
 - Bathroom is mostly correlated with house price. Try to buy houses with more bathrooms, apparently it will have higher prices. For house flippers, it is good to find cheap houses with more bathrooms, then you can re-sell for more profit after flipping it.
